@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="171cab71-c833-4a66-aca4-231554de62ac" name="Default Changelist" comment="" />
+    <list default="true" id="171cab71-c833-4a66-aca4-231554de62ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/entity/FiveChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/FiveChess.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XqXUGWBq3u1nCzHPuEWx29MrQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -129,7 +135,7 @@
       <workItem from="1561451332275" duration="133000" />
       <workItem from="1561532440470" duration="174000" />
       <workItem from="1581774613732" duration="1084000" />
-      <workItem from="1581775724506" duration="2798000" />
+      <workItem from="1581775724506" duration="4667000" />
     </task>
     <servers />
   </component>
@@ -137,10 +143,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581778302924">
+    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581780195830">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1581778302924" />
+    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1581780195830" />
     <state x="724" y="207" width="462" height="689" key="#com.intellij.ide.util.MemberChooser" timestamp="1581777639520">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
@@ -149,22 +155,22 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="679" y="254" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1581775662666" />
-    <state width="1870" height="159" key="GridCell.Tab.0.bottom" timestamp="1581778530703">
+    <state width="1870" height="159" key="GridCell.Tab.0.bottom" timestamp="1581778636714">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1870" height="159" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530703" />
-    <state width="1870" height="159" key="GridCell.Tab.0.center" timestamp="1581778530702">
+    <state width="1870" height="159" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1581778636714" />
+    <state width="1870" height="159" key="GridCell.Tab.0.center" timestamp="1581778636713">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1870" height="159" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
-    <state width="1870" height="159" key="GridCell.Tab.0.left" timestamp="1581778530702">
+    <state width="1870" height="159" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1581778636713" />
+    <state width="1870" height="159" key="GridCell.Tab.0.left" timestamp="1581778636713">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1870" height="159" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
-    <state width="1870" height="159" key="GridCell.Tab.0.right" timestamp="1581778530702">
+    <state width="1870" height="159" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1581778636713" />
+    <state width="1870" height="159" key="GridCell.Tab.0.right" timestamp="1581778636714">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state width="1870" height="159" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
+    <state width="1870" height="159" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1581778636714" />
     <state x="315" y="29" width="1280" height="1045" key="SettingsEditor" timestamp="1581775671807">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>

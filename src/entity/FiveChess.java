@@ -2,7 +2,7 @@ package entity;
 
 
 import enums.Side;
-import javafx.scene.control.Alert;
+
 
 public class FiveChess{
 
