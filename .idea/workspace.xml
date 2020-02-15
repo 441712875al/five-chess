@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="171cab71-c833-4a66-aca4-231554de62ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FiveChessGame$TestGame.ic" NAME="TestGame Coverage Results" MODIFIED="1553429844595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>entity.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqXUGWBq3u1nCzHPuEWx29MrQx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553436023085" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Inforation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inforation" />
+      <module name="FiveChessGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="FiveChessGame" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\jdk11\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entity.TestGame" />
+      <module name="FiveChessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Inforation" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestGame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Inforation" />
+        <item itemvalue="Application.TestGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="171cab71-c833-4a66-aca4-231554de62ac" name="Default Changelist" comment="" />
+      <created>1553406184193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553406184193</updated>
+      <workItem from="1553406185615" duration="13049000" />
+      <workItem from="1553428068542" duration="7377000" />
+      <workItem from="1553525803171" duration="1626000" />
+      <workItem from="1553924291389" duration="24000" />
+      <workItem from="1553937949363" duration="1022000" />
+      <workItem from="1554345183259" duration="364000" />
+      <workItem from="1554469886526" duration="3899000" />
+      <workItem from="1555034811312" duration="1184000" />
+      <workItem from="1561451332275" duration="133000" />
+      <workItem from="1561532440470" duration="174000" />
+      <workItem from="1581774613732" duration="1084000" />
+      <workItem from="1581775724506" duration="2798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581778302924">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="418" y="207" width="1143" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1581778302924" />
+    <state x="724" y="207" width="462" height="689" key="#com.intellij.ide.util.MemberChooser" timestamp="1581777639520">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="724" y="207" width="462" height="689" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1581777639520" />
+    <state x="679" y="254" key="FileChooserDialogImpl" timestamp="1581775662666">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="679" y="254" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1581775662666" />
+    <state width="1870" height="159" key="GridCell.Tab.0.bottom" timestamp="1581778530703">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="159" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530703" />
+    <state width="1870" height="159" key="GridCell.Tab.0.center" timestamp="1581778530702">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="159" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
+    <state width="1870" height="159" key="GridCell.Tab.0.left" timestamp="1581778530702">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="159" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
+    <state width="1870" height="159" key="GridCell.Tab.0.right" timestamp="1581778530702">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="159" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1581778530702" />
+    <state x="315" y="29" width="1280" height="1045" key="SettingsEditor" timestamp="1581775671807">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="315" y="29" width="1280" height="1045" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1581775671807" />
+  </component>
+</project>
